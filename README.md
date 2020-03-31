@@ -1,2 +1,2 @@
 # SALUCheat
-EzyFrags-Regenrated-scrambled
+ezy-Regenrated-scrambled
